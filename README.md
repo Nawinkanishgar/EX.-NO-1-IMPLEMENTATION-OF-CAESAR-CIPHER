@@ -1,6 +1,4 @@
 # EX. NO: 1(A) : IMPLEMENTATION OF CAESAR CIPHER
-### SINDHU PRIYA REDDY G
-### 212224040319
 
 ## AIM:
 To implement the simple substitution technique named Caesar cipher using C language.
